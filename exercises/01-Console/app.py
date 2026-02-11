@@ -1,1 +1,2 @@
-# print "Hello World!" on the console
+# EJERCICIO 1 - console
+print("Hello World!")
