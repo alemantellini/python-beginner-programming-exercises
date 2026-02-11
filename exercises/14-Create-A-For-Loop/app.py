@@ -1,5 +1,7 @@
+# EJERCICIO 14 - create a for loop
 def standards_maker():
-    # ✅↓ Write your code here ↓✅
-
-
-# ✅↓ remember to call the function outside (here) ↓✅
+    # ↓ Write your code here ↓
+    for i in range(1, 301):
+        print("I will ask questions if I am stuck")
+# ↓ remember to call the function outside (here) ↓
+standards_maker()
